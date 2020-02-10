@@ -1,0 +1,4 @@
+ipywidgets
+RISE
+numpy
+matplotlib

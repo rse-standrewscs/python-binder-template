@@ -1,5 +1,6 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/rse-standrewscs/python-binder-template/master)
 [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/alex-konovalov/libraries/python-binder-template)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3662238.svg)](https://doi.org/10.5281/zenodo.3662238)
 
 # python-binder-template
 

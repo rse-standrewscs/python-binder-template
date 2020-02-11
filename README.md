@@ -31,6 +31,8 @@ dependencies, installation and usage instructions, etc.
 
 - `LICENSE` file with copyright information and license details
 
+- `.gitignore` file which specifies which files and directories Git should ignore
+
 - `requirements.txt` with specified dependencies of your project
 
 - `postBuild` with additional steps needed after installation

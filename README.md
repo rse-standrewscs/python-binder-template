@@ -54,3 +54,7 @@ computer and work with Jupyter notebooks locally.
 
 For further information about Jupyter, see
 https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html.
+
+4. When your project is ready for the release, make it citable by archiving it
+(with assigning a DOI) on the data archiving tool Zenodo (https://zenodo.org/), 
+following instructions at https://guides.github.com/activities/citable-code/.

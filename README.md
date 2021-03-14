@@ -1,10 +1,13 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/rse-standrewscs/python-binder-template/master)
-[![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/alex-konovalov/libraries/python-binder-template)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3662238.svg)](https://doi.org/10.5281/zenodo.3662238)
 
 # python-binder-template
 
-Template for publishing reproducible experiments in Python Jupyter notebooks runnable on Binder and Azure Notebooks
+## Jupyter Notebooks For Reproducible Research
+
+This repository provides a template for publishing reproducible experiments 
+in Python Jupyter notebooks runnable on Binder. For a similar example using R
+see https://github.com/rse-standrewscs/r-binder-template.
 
 1. Create a new repository for your project, navigate to the directory 
 with a clone of your repository, and start to add new content to your

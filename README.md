@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/rse-standrewscs/python-binder-template/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rse-standrewscs/python-binder-template/HEAD)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3662238.svg)](https://doi.org/10.5281/zenodo.3662238)
 
 # python-binder-template
